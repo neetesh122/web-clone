@@ -1,2 +1,2 @@
 # web-clone
-This is a clone of spotify 
+This is a clone of spotify.
